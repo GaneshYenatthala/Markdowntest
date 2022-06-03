@@ -1,0 +1,1 @@
+TO print something in python we need to use `print()` function
